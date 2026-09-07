@@ -14,3 +14,8 @@ My goal is not simply to learn different tools, but to practise the **end-to-end
 **Business Question → Data Understanding → Data Cleaning → Exploratory Analysis → SQL / Analysis → Visualisation → Insights → Recommendations**
 
 I enjoy learning by building, experimenting with different tools, and turning datasets into practical business insights.
+
+# Project
+## Project name [ will add soon]
+### Tools
+
